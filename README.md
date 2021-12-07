@@ -10,7 +10,6 @@ Here are the samples to my Rapid Application Development Patterns workshop.
 - [Example 04: Template Generator Start](https://stackblitz.com/edit/rad-template-generator-start)
 - [Example 05: Layer Generator Start](https://stackblitz.com/edit/rad-layer-generator-start)
 - [Example 06: Stack Generator Start](https://stackblitz.com/edit/rad-stack-generator-start)
-- [Example 07: Event Storming Generator Start](https://stackblitz.com/edit/rad-event-storming-generator-start)
 
 ## Completed Examples
 - [Example 00: Rapid Primer](https://stackblitz.com/edit/rad-rapid-primer)
@@ -20,4 +19,8 @@ Here are the samples to my Rapid Application Development Patterns workshop.
 - [Example 04: Template Generator](https://stackblitz.com/edit/rad-template-generator)
 - [Example 05: Layer Generator](https://stackblitz.com/edit/rad-layer-generator)
 - [Example 06: Stack Generator](https://stackblitz.com/edit/rad-stack-generator)
+
+
+## Extra Examples
 - [Example 07: Event Storming Generator](https://stackblitz.com/edit/rad-event-storming-generator)
+- [Example 08: Copy to Clipboard](https://stackblitz.com/edit/rad-copy-to-clipboard)
