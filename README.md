@@ -24,3 +24,4 @@ Here are the samples to my Rapid Application Development Patterns workshop.
 ## Extra Examples
 - [Example 07: Event Storming Generator](https://stackblitz.com/edit/rad-event-storming-generator)
 - [Example 08: Copy to Clipboard](https://stackblitz.com/edit/rad-copy-to-clipboard)
+- [Example 09: Mock API Generator](https://stackblitz.com/edit/rad-mock-api-generator)
